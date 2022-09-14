@@ -1,0 +1,3 @@
+# Sentiment Analysis on Digikala Comments
+Digikala is an Iranian e-commerce company based in Tehran. It has 30 million visitors per month and receives 17.2 million visits per day. It is also ranked by Alexa as Iran's 3rd most visited website. In this project, I implement a basic sentiment analysis on Digikala's comments' data.
+I have used the Multinomial Naive Bayes algorithm from scikit-learn library and hazm to preprocess Persian comments.
